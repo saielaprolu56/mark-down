@@ -12,5 +12,19 @@
 
 ![github logo](https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png)
 
+- [x] checkbox
+- [ ] one
+
+**code**
+```python
+def hii():
+      print("hii ...")
+```
+
+
+**table**
+|Name|college|branch|
+|----|-------|------|
+|sfgh|jgyfbjy|ftyhde|
 
 :blush:
